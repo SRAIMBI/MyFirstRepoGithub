@@ -1,0 +1,7 @@
+Hello file1
+<<<<<<< HEAD
+Hello2
+Hello3
+=======
+modification de mon fichier pour le merge
+>>>>>>> branche3
