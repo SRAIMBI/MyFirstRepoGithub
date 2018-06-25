@@ -1,1 +1,2 @@
+modif master file 3
 exercice sur les merges
