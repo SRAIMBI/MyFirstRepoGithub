@@ -2,6 +2,7 @@ modif master file 1
 modif branch 5 file 1
 ajout modif sur branch 5
 2ieme modif sur branch5
+modif branch6
 Hello file1
 Hello2
 Hello3
