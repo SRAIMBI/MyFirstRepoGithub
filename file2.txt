@@ -6,7 +6,7 @@ modif branch4
 Bonjour file2
 Bonjour2
 Bonjour3
-=======
 Bonjour file2
 Bonjour2
->>>>>>> 71ca22c... second commit
+modification après branche
+
