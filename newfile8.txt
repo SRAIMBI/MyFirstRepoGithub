@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 nouveau fichier
+=======
+exo GIT110
+test cherry pick
+>>>>>>> 4068593... test du cherry pcik
