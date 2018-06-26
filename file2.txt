@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 modif master file 2
 modif branch 5 file 2
 modif via master
@@ -5,3 +6,7 @@ modif branch4
 Bonjour file2
 Bonjour2
 Bonjour3
+=======
+Bonjour file2
+Bonjour2
+>>>>>>> 71ca22c... second commit

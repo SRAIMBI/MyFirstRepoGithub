@@ -4,5 +4,8 @@ ajout modif sur branch 5
 2ieme modif sur branch5
 Hello file1
 Hello2
+<<<<<<< HEAD
 Hello3
 ajout line in file 1
+=======
+>>>>>>> 71ca22c... second commit
